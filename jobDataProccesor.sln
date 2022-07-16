@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalenyaTest", "TalenyaTest\TalenyaTest.csproj", "{AAC41468-9582-4E3E-9758-E83B5A995823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC41468-9582-4E3E-9758-E83B5A995823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC41468-9582-4E3E-9758-E83B5A995823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC41468-9582-4E3E-9758-E83B5A995823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC41468-9582-4E3E-9758-E83B5A995823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA338D7-5369-4EC9-B3C1-07FFD13C5C80}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\bin\Debug\TalenyaTest.exe.config
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\bin\Debug\TalenyaTest.exe
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\bin\Debug\TalenyaTest.pdb
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\obj\Debug\TalenyaTest.csprojAssemblyReference.cache
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\obj\Debug\TalenyaTest.csproj.CoreCompileInputs.cache
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\obj\Debug\TalenyaTest.csproj.CopyComplete
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\obj\Debug\TalenyaTest.exe
+C:\Users\ORMEI\source\repos\TalenyaTest\TalenyaTest\obj\Debug\TalenyaTest.pdb
